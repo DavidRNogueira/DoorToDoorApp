@@ -83,7 +83,7 @@
         </div>
         Send Tasks
       </div>
-      <div class="sidebar-option">
+      <div class="sidebar-option" on:click={async () => await goto('/our-map')}>
         <div class="icon">
           <MdMap />
         </div>
