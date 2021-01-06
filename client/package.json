@@ -9,7 +9,7 @@
     "start": "node __sapper__/build"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "compression": "^1.7.1",
     "polka": "next",
     "sirv": "^1.0.0"
